@@ -1,0 +1,16 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: encrypt-plugin
+
+  datasource:
+    url: jdbc:mysql:///ken_db?serverTimezone=GMT%2B8
+    username: root
+    password: shure@123
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+logging:
+  level:
+    root: debug
+
