@@ -20,9 +20,9 @@ public class AESUtil {
     private static final String CHARSET_NAME = "UTF-8";
     private static final String AES_NAME = "AES";
 
-    private static final String KEY = "ec19479f79b2a225";
+    private static final String KEY = "9370D53786EC0C72";
 
-    private static final String IV = "ec19479f79b2a225";
+    private static final String IV = "9370D53786EC0C72";
     // 加密模式
     public static final String ALGORITHM = "AES/CBC/PKCS7Padding";
 
